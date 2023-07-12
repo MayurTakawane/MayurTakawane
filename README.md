@@ -1,4 +1,4 @@
-![logo](https://github.com/MayurTakawane/MayurTakawane/blob/main/git%20banner.png)
+![logo](https://github.com/MayurTakawane/MayurTakawane/blob/main/github-header.png)
 
 <h1 align="center">Hi 👋, I'm Mayur Takawane</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
