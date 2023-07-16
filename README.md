@@ -1,7 +1,7 @@
 ![logo](https://github.com/MayurTakawane/MayurTakawane/blob/main/github-header.png)
 
 <h1 align="center">Hi 👋, I'm Mayur Takawane</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<!-- <h3 align="center">A passionate Data Scientist from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"</img>
 
 - 🌱 I’m currently learning **Data Science**
